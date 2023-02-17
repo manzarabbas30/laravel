@@ -1,1 +1,1 @@
-<h1 class="text-center">This is laravel first blog</h1>
+<h1 class="text-center">This is Home Page</h1>
