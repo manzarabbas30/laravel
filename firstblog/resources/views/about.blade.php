@@ -1,1 +1,1 @@
-<h1>Hello Laravel Developers</h1>
+<h1>This is about page</h1>
