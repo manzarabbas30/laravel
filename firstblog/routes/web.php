@@ -19,9 +19,9 @@ Route::get('/', function () {
 // Route::get('/', function () {
 //     return redirect('about');
 // });
-// Route::get('/{name}', function ($name) {
-//     return view('home',['name'=>$name]);
-// });
+Route::get('/blog/{name}', function ($name) {
+    return view('home',['name'=>$name]);
+});
 
 
 
