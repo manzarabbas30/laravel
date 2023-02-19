@@ -20,11 +20,8 @@ Route::get('/', function () {
 //     return redirect('about');
 // });
 Route::get('/blog/{name}', function ($name) {
-    return view('home',['name'=>$name]);
+    return view('blog',['name'=>$name]);
 });
-
-
-
 Route::view("home","/home");
 Route::view("blog","/blog");
 Route::view("about","/about");
