@@ -2,4 +2,4 @@
 <a href="\about">about</a>
 <a href="\blog">blog</a>
 <a href="\contact">contact</a>
-<h1>This is about page</h1>
+<h1>This is our about page</h1>
