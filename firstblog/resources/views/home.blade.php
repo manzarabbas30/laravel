@@ -3,4 +3,4 @@
 <a href="\about">about</a>
 <a href="\blog">blog</a>
 <a href="\contact">contact</a>
-<h1 class="text-center">This is Home Page</h1>
+<h1 class="text-center">This is Our Home Page</h1>
