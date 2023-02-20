@@ -2,4 +2,4 @@
 <a href="\about">about</a>
 <a href="\blog">blog</a>
 <a href="\contact">contact</a>
-<h1 class="text-center">This is laravel contact page</h1>
+<h1 class="text-center">This is our contact page</h1>
