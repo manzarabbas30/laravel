@@ -2,5 +2,5 @@
 <a href="\about">about</a>
 <a href="\blog">blog</a>
 <a href="\contact">contact</a>
-<h1>This is Blog page</h1>
-{{$name}}
+<h1>This is our Blog page</h1>
+<!-- {{$name}} -->
