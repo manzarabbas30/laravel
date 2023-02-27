@@ -26,5 +26,5 @@ Route::get('/', function () {
 // });
 Route::view("home","/home");
 Route::view("blog","/blog");
-Route::view("about","/about-us");
-Route::view("contact","/contact-us");
+Route::view("about","/about");
+Route::view("contact","/contact");
